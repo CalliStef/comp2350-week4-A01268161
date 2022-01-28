@@ -9,7 +9,7 @@ const dbConfigHeroku = {
 	password: "702be0f5",
 	database: "heroku_a79dfbc72e06757",
 	multipleStatements: false,
-	reconnect: true;
+	reconnect: true
 };
 
 const dbConfigLocal = {
